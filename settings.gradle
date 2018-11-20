@@ -1,0 +1,4 @@
+rootProject.name = 'recipebook-api'
+
+include ":recipebook-commons"
+project(":recipebook-commons").projectDir = file("../recipebook-commons")

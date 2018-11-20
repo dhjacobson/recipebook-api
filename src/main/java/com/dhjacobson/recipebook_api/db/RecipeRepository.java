@@ -1,7 +1,6 @@
 package com.dhjacobson.recipebook_api.db;
 
-import com.example.recipebook_commons.models.Recipe;
-
+import com.dhjacobson.recipebook_commons.models.Recipe;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
 package com.dhjacobson.recipebook_api.db;
 
-import com.example.recipebook_commons.models.Recipe;
-import com.example.recipebook_commons.utils.SampleDataUtils;
+import com.dhjacobson.recipebook_commons.models.Recipe;
+import com.dhjacobson.recipebook_commons.utils.SampleDataUtils;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.CollectionType;
 import com.google.common.base.Charsets;

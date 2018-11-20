@@ -2,7 +2,7 @@ package com.dhjacobson.recipebook_api.resources;
 
 import com.codahale.metrics.annotation.Timed;
 import com.dhjacobson.recipebook_api.db.RecipeRepository;
-import com.example.recipebook_commons.models.Recipe;
+import com.dhjacobson.recipebook_commons.models.Recipe;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;

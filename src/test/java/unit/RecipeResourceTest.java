@@ -2,7 +2,7 @@ package unit;
 
 import com.dhjacobson.recipebook_api.db.RecipeRepository;
 import com.dhjacobson.recipebook_api.resources.RecipeResource;
-import com.example.recipebook_commons.models.Recipe;
+import com.dhjacobson.recipebook_commons.models.Recipe;
 import io.dropwizard.testing.junit.ResourceTestRule;
 import org.junit.Before;
 import org.junit.ClassRule;
